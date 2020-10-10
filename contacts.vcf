@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Saulo Rockberto
+N:;Saulo Rockberto;;;
+item1.EMAIL;TYPE=INTERNET:saulorockberto@gmail.com
+item1.X-ABLabel:
+item2.TEL:55 4907 9812
+item2.X-ABLabel:
+item3.ORG:Alpha Kaisen
+item3.X-ABLabel:
+item4.URL:https\://www.saulorockberto.com/
+item4.X-ABLabel:Tarjeta de visita digital
+CATEGORIES:Cientes,myContacts
+END:VCARD
